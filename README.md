@@ -7,9 +7,9 @@ The capacity to overcome hardship, control stress, and function well under dures
 
 Teams that are resilient:
 
-   . Adapt to change: In the face of unforeseen difficulties, they maintain their adaptability and receptivity to new approaches.
-   . Quickly bounce back from setbacks: When faced with setbacks or difficulties, they absorb lessons from their blunders and carry on.
-   . Resilient teams stay motivated: and involved even under pressure by helping one another through trying times and staying focused on their objectives.
+- . Adapt to change: In the face of unforeseen difficulties, they maintain their adaptability and receptivity to new approaches.
+- . Quickly bounce back from setbacks: When faced with setbacks or difficulties, they absorb lessons from their blunders and carry on.
+- . Resilient teams stay motivated: and involved even under pressure by helping one another through trying times and staying focused on their objectives.
 
 2. The Value of Developing Teams' Resilience
 Teams now deal with a variety of obstacles at work, such as pressing deadlines, technical difficulties, shifting market conditions, and worldwide emergencies like pandemics. To make sure that teams can overcome these obstacles without sacrificing output, wellbeing, or performance, resilience-building is crucial.
@@ -74,9 +74,9 @@ Teams that are resilient take initiative when faced with obstacles. They take th
 
 To encourage addressing problems:
 
-. Empower decision-making: Provide your staff the freedom to decide for themselves and find solutions to issues as they arise. They gain self-assurance and sharpen their critical thinking abilities as a result.
-. Promote experimentation: by letting team members try out novel strategies or concepts without worrying about failing. Teams become more flexible and receptive to change when they are given the freedom to try new things.
-. Debriefing following difficulties: After overcoming a big obstacle, give yourself some time to consider what went well, what didn't, and what may be done better. By doing this, the group develops resilience for the future and learns from their experiences.
+> . Empower decision-making: Provide your staff the freedom to decide for themselves and find solutions to issues as they arise. They gain self-assurance and sharpen their critical thinking abilities as a result.
+> . Promote experimentation: by letting team members try out novel strategies or concepts without worrying about failing. Teams become more flexible and receptive to change when they are given the freedom to try new things.
+> . Debriefing following difficulties: After overcoming a big obstacle, give yourself some time to consider what went well, what didn't, and what may be done better. By doing this, the group develops resilience for the future and learns from their experiences.
 
 4. Maintaining Adaptability Over Time
 Developing resilience is a continuous process that requires constant work. It is the responsibility of leaders to consistently cultivate resilience via creating a welcoming atmosphere, promoting flexibility, and placing a high value on team welfare. Evaluate your team's resilience on a regular basis and modify your leadership techniques to tackle new obstacles.
