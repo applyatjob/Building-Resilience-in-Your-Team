@@ -7,9 +7,9 @@ The capacity to overcome hardship, control stress, and function well under dures
 
 Teams that are resilient:
 
-. Adapt to change: In the face of unforeseen difficulties, they maintain their adaptability and receptivity to new approaches.
-. Quickly bounce back from setbacks: When faced with setbacks or difficulties, they absorb lessons from their blunders and carry on.
-. Resilient teams stay motivated: and involved even under pressure by helping one another through trying times and staying focused on their objectives.
+   . Adapt to change: In the face of unforeseen difficulties, they maintain their adaptability and receptivity to new approaches.
+   . Quickly bounce back from setbacks: When faced with setbacks or difficulties, they absorb lessons from their blunders and carry on.
+   . Resilient teams stay motivated: and involved even under pressure by helping one another through trying times and staying focused on their objectives.
 
 2. The Value of Developing Teams' Resilience
 Teams now deal with a variety of obstacles at work, such as pressing deadlines, technical difficulties, shifting market conditions, and worldwide emergencies like pandemics. To make sure that teams can overcome these obstacles without sacrificing output, wellbeing, or performance, resilience-building is crucial.
